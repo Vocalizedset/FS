@@ -1,0 +1,56 @@
+body{
+
+
+    background-color: aquamarine;
+
+    margin: 0%;
+    padding: 0%;
+}
+.navleft{
+    margin-right: 200px;
+}
+
+
+nav{
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    font-style: italic;
+
+    font-size: larger;
+    background-color: chocolate;
+}
+
+nav a{
+
+    text-decoration: none;
+}
+
+
+.lol{
+
+    font-style: italic;
+}
+
+.photu{
+    border-radius: 50%;
+    margin-left: 500px;
+}
+
+.div{
+
+
+   text-align: center;
+}
+
+.dabba{
+    height: 450px;
+    width: 350px;
+    font-size: 30px;
+    background-color: ;
+    background-color: blue;
+}
+
